@@ -30,7 +30,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.motivationquotes.app"
+    namespace = "com.motivationquotesmng.motivationquotes"
     compileSdk = 36
     ndkVersion = "27.0.12077973"
 
@@ -45,7 +45,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.motivationquotes.app"
+        applicationId = "com.motivationquotesmng.motivationquotes"
         minSdk = flutter.minSdkVersion
         targetSdk = 35
         versionCode = flutterVersionCode.toInteger()

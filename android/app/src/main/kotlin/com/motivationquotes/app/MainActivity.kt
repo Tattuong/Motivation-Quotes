@@ -1,4 +1,4 @@
-package com.motivationquotes.app
+package com.motivationquotesmng.motivationquotes
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -3,7 +3,7 @@ import 'package:home_widget/home_widget.dart';
 class WidgetService {
   WidgetService._();
 
-  static const _appGroupId = 'group.com.motivationquotes.app';
+  static const _appGroupId = 'group.com.motivationquotesmng.motivationquotes';
   static const _quoteKey = 'daily_quote';
   static const _authorKey = 'daily_author';
   static const _androidWidgetName = 'QuoteWidgetProvider';

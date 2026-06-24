@@ -60,7 +60,7 @@ class IapRemoteConfig {
 
   static IapRemoteConfig fallback() => const IapRemoteConfig(
         name: 'Motivation Quotes',
-        id: 'com.motivationquotes.app',
+        id: 'com.motivationquotesmng.motivationquotes',
         version: '1.0.0',
         billingDisabled: false,
         code: 'FULL_IAP',

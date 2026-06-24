@@ -32,4 +32,4 @@ flutter run
 
 ## Package
 
-`com.motivationquotes.app`
+`com.motivationquotesmng.motivationquotes`
